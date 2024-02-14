@@ -16,24 +16,26 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm a New Python Developer! 👋
 
-Welcome to my GitHub profile! I'm passionate about creating solutions and exploring the vast possibilities with Python. I specialize in web development using Django and Flask and have a keen interest in data science. My journey in tech is just beginning, and I'm excited about the projects and learning opportunities ahead.
+Welcome to my GitHub profile! I'm passionate about creating solutions and exploring the vast possibilities with Python. I specialize in web development using Django and Flask, delve into data science with a strong foundation in tools like Pandas, NumPy, Scikit-learn, and Matplotlib, and enjoy building leisure projects with Pygame. My journey in tech is just beginning, and I'm excited about the projects and learning opportunities ahead.
 
 ## 💻 Technologies I Work With
 
 - **Programming Languages:** Python
 - **Web Development:** Django, Flask, HTML, CSS
 - **Database Management:** SQL
-- **Data Science:** I'm exploring data science concepts and tools to leverage data in creating impactful solutions.
+- **Data Science:** Proficient in using Pandas, NumPy, Scikit-learn, and Matplotlib for data analysis, visualization, and machine learning projects.
+- **Game Development:** Familiar with Pygame, using it for leisure projects and exploring game development concepts.
 
 ## 🚀 What I'm Focused On
 
-Currently, I am honing my skills in Python and its frameworks, as well as expanding my knowledge in data science. I'm also learning about best practices in web development and how to effectively use data to solve real-world problems. I'm in the process of starting personal projects that will not only showcase my skills but also allow me to contribute to the community.
+Currently, I am honing my skills in Python and its frameworks, as well as expanding my knowledge in data science and game development with Pygame. I'm also diving deep into data analysis and machine learning, leveraging tools like Pandas, NumPy, Scikit-learn, and Matplotlib to uncover insights and build predictive models. Additionally, I have completed numerous challenges on LeetCode, which has significantly sharpened my problem-solving and algorithmic skills.
 
 ## 🌱 I'm Currently Learning
 
 - Advanced concepts in Django and Flask for more robust web applications.
-- Data analysis and machine learning to uncover insights and build predictive models.
-- Enhancing my frontend skills to create more interactive and user-friendly web applications.
+- Deepening my data science expertise with advanced data analysis, visualization techniques, and machine learning models.
+- Enhancing my skills in Pygame for game development and to create engaging interactive projects.
+- Continuously improving my problem-solving abilities by tackling more complex challenges on LeetCode.
 
 ## 📫 How to Reach Me
 
@@ -41,4 +43,5 @@ If you're interested in reaching out, whether it's for job opportunities, collab
 
 ## ✨ Final Thoughts
 
-I'm at the beginning of my tech journey, eager to learn, grow, and contribute. While I may not have a vast project portfolio yet, my enthusiasm for technology and problem-solving drives me forward. I look forward to the projects, challenges, and learning opportunities that lie ahead.
+I'm at the beginning of my tech journey, eager to learn, grow, and contribute. My enthusiasm for technology, problem-solving, and game development with Pygame drives me forward. The knowledge and skills I've gained from working with data science tools and solving LeetCode challenges have prepared me well for tackling complex problems. I look forward to the projects, challenges, and learning opportunities that lie ahead.
+
